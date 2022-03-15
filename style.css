@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,100&display=swap');
+
+font-family: 'Roboto', sans-serif;
+
+p{
+    font-family: 100;
+}
+
+
+
+body {
+  background-image: url("./images/pexels-bruno-pires-10164553.jpg");
+  
+}
+
+.container {
+
+  padding: 3rem;
+
+}
