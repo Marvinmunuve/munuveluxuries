@@ -8,8 +8,11 @@ p{
 
 
 
+
 body {
   background-image: url("./images/pexels-bruno-pires-10164553.jpg");
+  display: flex;
+  justify-content: center;
   
 }
 
